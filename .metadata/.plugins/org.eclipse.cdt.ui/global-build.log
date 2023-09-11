@@ -1,0 +1,205 @@
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+00:22:39 **** Rebuild of configuration Debug for project helloworld2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\helloworld2.o" "..\\src\\helloworld2.cpp" 
+g++ -o helloworld2.exe "src\\helloworld2.o" 
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+00:50:46 **** Rebuild of configuration Debug for project helloworld3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\helloworld3.o" "..\\src\\helloworld3.cpp" 
+g++ -o helloworld3.exe "src\\helloworld3.o" 
+Info: Nothing to build for helloworld3
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+02:32:24 **** Rebuild of configuration Debug for project montako ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\montako.o" "..\\src\\montako.cpp" 
+g++ -o montako.exe "src\\montako.o" 
+Info: Nothing to build for montako
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+02:50:51 **** Incremental Build of configuration Debug for project montako ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\montako.o" "..\\src\\montako.cpp" 
+g++ -o montako.exe "src\\montako.o" 
+Info: Nothing to build for montako
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+02:57:06 **** Incremental Build of configuration Debug for project montako ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\montako.o" "..\\src\\montako.cpp" 
+g++ -o montako.exe "src\\montako.o" 
+Info: Nothing to build for montako
+Info: Nothing to build for montako
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+20:28:30 **** Rebuild of configuration Debug for project helloworld2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\helloworld2.o" "..\\src\\helloworld2.cpp" 
+g++ -o helloworld2.exe "src\\helloworld2.o" 
+20:28:36 **** Rebuild of configuration Debug for project helloworld3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\helloworld3.o" "..\\src\\helloworld3.cpp" 
+g++ -o helloworld3.exe "src\\helloworld3.o" 
+Info: Nothing to build for montako
+20:28:42 **** Rebuild of configuration Debug for project ohjelma ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ohjelma.o" "..\\src\\ohjelma.cpp" 
+g++ -o ohjelma.exe "src\\ohjelma.o" 
+Info: Nothing to build for ohjelma
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+20:31:02 **** Incremental Build of configuration Debug for project ohjelma ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ohjelma.o" "..\\src\\ohjelma.cpp" 
+g++ -o ohjelma.exe "src\\ohjelma.o" 
+Info: Nothing to build for ohjelma
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+20:41:50 **** Incremental Build of configuration Debug for project ohjelma ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ohjelma.o" "..\\src\\ohjelma.cpp" 
+g++ -o ohjelma.exe "src\\ohjelma.o" 
+Info: Nothing to build for ohjelma
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+20:43:01 **** Incremental Build of configuration Debug for project ohjelma ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ohjelma.o" "..\\src\\ohjelma.cpp" 
+g++ -o ohjelma.exe "src\\ohjelma.o" 
+Info: Nothing to build for ohjelma
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+20:45:44 **** Incremental Build of configuration Debug for project ohjelma ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ohjelma.o" "..\\src\\ohjelma.cpp" 
+g++ -o ohjelma.exe "src\\ohjelma.o" 
+Info: Nothing to build for ohjelma
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+20:47:59 **** Incremental Build of configuration Debug for project ohjelma ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ohjelma.o" "..\\src\\ohjelma.cpp" 
+..\src\ohjelma.cpp: In function 'int main()':
+..\src\ohjelma.cpp:41:13: error: expected ';' before string constant
+   41 |     testi2() "\n";
+      |             ^~~~~
+      |             ;
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+20:48:46 **** Incremental Build of configuration Debug for project ohjelma ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ohjelma.o" "..\\src\\ohjelma.cpp" 
+g++ -o ohjelma.exe "src\\ohjelma.o" 
+Info: Nothing to build for ohjelma
+20:39:19 **** Rebuild of configuration Debug for project bitti ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bitti.o" "..\\src\\bitti.cpp" 
+g++ -o bitti.exe "src\\bitti.o" 
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+Info: Nothing to build for ohjelma
+20:40:48 **** Incremental Build of configuration Debug for project bitti ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bitti.o" "..\\src\\bitti.cpp" 
+g++ -o bitti.exe "src\\bitti.o" 
+20:42:20 **** Incremental Build of configuration Debug for project bitti ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bitti.o" "..\\src\\bitti.cpp" 
+g++ -o bitti.exe "src\\bitti.o" 
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+Info: Nothing to build for ohjelma
+20:44:20 **** Rebuild of configuration Debug for project bitti ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bitti.o" "..\\src\\bitti.cpp" 
+g++ -o bitti.exe "src\\bitti.o" 
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+Info: Nothing to build for ohjelma
+Info: Nothing to build for bitti
+20:45:16 **** Incremental Build of configuration Debug for project bitti ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bitti.o" "..\\src\\bitti.cpp" 
+g++ -o bitti.exe "src\\bitti.o" 
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+Info: Nothing to build for ohjelma
+Info: Nothing to build for bitti
+Info: Nothing to build for ohjelma
+19:37:52 **** Rebuild of configuration Debug for project aakkoset ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\aakkoset.o" "..\\src\\aakkoset.cpp" 
+g++ -o aakkoset.exe "src\\aakkoset.o" 
+Info: Nothing to build for bitti
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+Info: Nothing to build for ohjelma
+Info: Nothing to build for aakkoset
+19:39:03 **** Incremental Build of configuration Debug for project aakkoset ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\aakkoset.o" "..\\src\\aakkoset.cpp" 
+g++ -o aakkoset.exe "src\\aakkoset.o" 
+Info: Nothing to build for bitti
+Info: Nothing to build for helloworld
+Info: Nothing to build for helloworld1
+Info: Nothing to build for helloworld2
+Info: Nothing to build for helloworld3
+Info: Nothing to build for montako
+Info: Nothing to build for ohjelma
+Info: Nothing to build for aakkoset

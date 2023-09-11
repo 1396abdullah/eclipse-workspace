@@ -1,0 +1,2 @@
+# eclipse-workspace
+ C++, stuff

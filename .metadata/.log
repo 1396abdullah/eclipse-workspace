@@ -1,0 +1,369 @@
+!SESSION 2023-08-10 04:08:01.453 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-08-10 04:08:36.719
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OMISTAJA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-10 04:12:41.367
+!MESSAGE Indexed 'helloworld' (1 sources, 153 headers) in 6,49 sec: 20 598 declarations; 33 999 references; 0 unresolved inclusions; 0 syntax errors; 7 unresolved names (0,013 %)
+!SESSION 2023-08-10 04:18:35.849 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-08-10 04:18:48.385
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OMISTAJA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-10 04:18:56.544
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-10 04:21:09.680
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-10 04:22:17.515
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+!SESSION 2023-08-11 16:09:25.131 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-08-11 16:09:41.983
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OMISTAJA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-11 16:11:31.989
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+!SESSION 2023-08-11 23:52:29.377 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-08-11 23:52:44.121
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OMISTAJA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-11 23:53:39.303
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-11 23:55:33.856
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.launch 4 150 2023-08-11 23:55:34.046
+!MESSAGE Error starting process.
+!STACK 0
+java.io.IOException: Cannot run program "C:\projects\helloworld\helloworld.cpp": Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:450)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:147)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:134)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory$Builder.start(ProcessFactory.java:273)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:366)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.exec(LocalRunLaunchDelegate.java:285)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:110)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 150 2023-08-11 23:55:34.047
+!MESSAGE Cannot run program "C:\projects\helloworld\helloworld.cpp": Launching failed
+!STACK 0
+java.io.IOException: Cannot run program "C:\projects\helloworld\helloworld.cpp": Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:450)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:147)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:134)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory$Builder.start(ProcessFactory.java:273)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:366)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.exec(LocalRunLaunchDelegate.java:285)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:110)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-11 23:55:45.899
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-11 23:56:33.190
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.launch 4 150 2023-08-11 23:56:33.310
+!MESSAGE Error starting process.
+!STACK 0
+java.io.IOException: Cannot run program "C:\projects\helloworld\helloworld.cpp": Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:450)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:147)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:134)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory$Builder.start(ProcessFactory.java:273)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:366)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.exec(LocalRunLaunchDelegate.java:285)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:110)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 150 2023-08-11 23:56:33.311
+!MESSAGE Cannot run program "C:\projects\helloworld\helloworld.cpp": Launching failed
+!STACK 0
+java.io.IOException: Cannot run program "C:\projects\helloworld\helloworld.cpp": Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:450)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:147)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:134)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory$Builder.start(ProcessFactory.java:273)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:366)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.exec(LocalRunLaunchDelegate.java:285)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:110)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-12 00:12:25.428
+!MESSAGE Indexed 'helloworld1' (0 sources, 0 headers) in 0,002 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-12 00:18:39.123
+!MESSAGE Indexed 'helloworld2' (1 sources, 0 headers) in 0,051 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75 %)
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-12 00:22:39.637
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-12 00:24:18.221
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.launch 4 150 2023-08-12 00:24:18.338
+!MESSAGE Error starting process.
+!STACK 0
+java.io.IOException: Cannot run program "C:\projects\helloworld\helloworld.cpp": Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:450)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:147)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:134)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory$Builder.start(ProcessFactory.java:273)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:366)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.exec(LocalRunLaunchDelegate.java:285)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:110)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 150 2023-08-12 00:24:18.338
+!MESSAGE Cannot run program "C:\projects\helloworld\helloworld.cpp": Launching failed
+!STACK 0
+java.io.IOException: Cannot run program "C:\projects\helloworld\helloworld.cpp": Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:450)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:147)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:134)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory$Builder.start(ProcessFactory.java:273)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:366)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.exec(LocalRunLaunchDelegate.java:285)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:110)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-12 00:46:38.762
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-12 00:49:39.294
+!MESSAGE Indexed 'helloworld3' (1 sources, 148 headers) in 3,69 sec: 19 037 declarations; 29 938 references; 0 unresolved inclusions; 0 syntax errors; 7 unresolved names (0,014 %)
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-12 00:50:45.947
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-12 02:32:03.135
+!MESSAGE Indexed 'montako' (1 sources, 148 headers) in 3,27 sec: 19 037 declarations; 29 938 references; 0 unresolved inclusions; 0 syntax errors; 7 unresolved names (0,014 %)
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-12 02:32:23.998
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-12 02:50:51.607
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-12 02:57:06.150
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+!SESSION 2023-08-12 21:43:24.384 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-08-12 21:43:39.229
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OMISTAJA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.help.base 2 0 2023-08-12 21:44:08.753
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.doc.user_11.2.0.202303131754 [122]'. The index should be rebuilt with Lucene 9.5.0
+
+!ENTRY org.eclipse.help.base 2 0 2023-08-12 21:44:08.757
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.tracecompass.gdbtrace.doc.user_9.0.0.202306071838 [528]'. The index should be rebuilt with Lucene 9.5.0
+
+!ENTRY org.eclipse.help.base 2 0 2023-08-12 21:44:08.766
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.autotools.docs_11.2.0.202303131754 [92]'. The index should be rebuilt with Lucene 9.5.0
+
+!ENTRY org.eclipse.help.base 2 0 2023-08-12 21:44:08.776
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.tracecompass.doc.user_9.0.0.202306071838 [526]'. The index should be rebuilt with Lucene 9.5.0
+
+!ENTRY org.eclipse.help.base 2 0 2023-08-12 21:44:08.785
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.platform.doc.user_4.28.0.v20230601-1614 [472]'. The index should be rebuilt with Lucene 9.5.0
+
+!ENTRY org.eclipse.help.base 2 0 2023-08-12 21:44:08.794
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.meson.docs_11.2.0.202303131754 [145]'. The index should be rebuilt with Lucene 9.5.0
+
+!ENTRY org.eclipse.help.base 2 0 2023-08-12 21:44:08.806
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.debug.application.doc_11.2.0.202303131754 [110]'. The index should be rebuilt with Lucene 9.5.0
+
+!ENTRY org.eclipse.help.base 2 0 2023-08-12 21:44:08.810
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.tracecompass.doc.dev_9.0.0.202306071838 [525]'. The index should be rebuilt with Lucene 9.5.0
+!SESSION 2023-08-13 20:22:12.158 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-08-13 20:22:31.335
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OMISTAJA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-13 20:25:19.744
+!MESSAGE Indexed 'ohjelma' (0 sources, 0 headers) in 0,003 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-13 20:28:25.703
+!MESSAGE Indexed 'ohjelma' (1 sources, 148 headers) in 5,29 sec: 19 037 declarations; 29 938 references; 0 unresolved inclusions; 0 syntax errors; 7 unresolved names (0,014 %)
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-13 20:28:29.877
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-13 20:31:02.294
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-13 20:41:50.503
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-13 20:43:01.398
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-13 20:45:44.474
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-13 20:47:59.291
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-13 20:48:45.753
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+!SESSION 2023-08-15 20:27:35.921 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-08-15 20:27:48.840
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OMISTAJA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-15 20:39:07.930
+!MESSAGE Indexed 'bitti' (1 sources, 148 headers) in 5,02 sec: 19 037 declarations; 29 938 references; 0 unresolved inclusions; 0 syntax errors; 7 unresolved names (0,014 %)
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-15 20:39:26.333
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-15 20:42:26.780
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-15 20:44:04.005
+!MESSAGE Indexed 'bitti' (1 sources, 0 headers) in 0,004 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75 %)
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-15 20:44:26.492
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-15 20:45:22.011
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+!SESSION 2023-08-16 19:36:28.549 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-08-16 19:36:41.872
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OMISTAJA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-16 19:37:57.766
+!MESSAGE Indexed 'aakkoset' (1 sources, 148 headers) in 5,74 sec: 19 037 declarations; 29 938 references; 0 unresolved inclusions; 0 syntax errors; 7 unresolved names (0,014 %)
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-16 19:38:02.697
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2023-08-16 19:39:10.042
+!MESSAGE Build Artifact is missing in project 'helloworld' configuration 'Default'
+!SESSION 2023-09-11 19:40:09.674 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-09-11 19:40:32.635
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OMISTAJA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
