@@ -1,1 +1,7 @@
-Info: Nothing to build for helloworld3
+16:12:52 **** Incremental Build of configuration Debug for project helloworld3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\vector.o" "..\\src\\vector.cpp" 
+g++ -o helloworld3.exe "src\\vector.o" 
+
+16:12:59 Build Finished. 0 errors, 0 warnings. (took 6s.657ms)
+

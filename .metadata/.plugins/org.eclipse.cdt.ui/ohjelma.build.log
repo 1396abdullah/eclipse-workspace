@@ -1,1 +1,7 @@
-Info: Nothing to build for ohjelma
+16:13:05 **** Incremental Build of configuration Debug for project ohjelma ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ohjelma.o" "..\\src\\ohjelma.cpp" 
+g++ -o ohjelma.exe "src\\ohjelma.o" 
+
+16:13:12 Build Finished. 0 errors, 0 warnings. (took 6s.238ms)
+

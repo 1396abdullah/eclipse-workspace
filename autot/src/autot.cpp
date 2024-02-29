@@ -3,7 +3,7 @@
 // Author      : Abdullah
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : This code prints out cars
 //============================================================================
 
 #include <iostream>

@@ -3,7 +3,7 @@
 // Author      : Abdullah
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : This code creates txt file
 //============================================================================
 
 #include <iostream>
@@ -15,7 +15,7 @@ int main() {
   ofstream MyFile("filename.txt");
 
   // Write to the file
-  MyFile << "Files can be tricky, but it is fun enough!";
+  MyFile << "Kijoitan tähän, että Abdullah";
 
   // Close the file
   MyFile.close();
